@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1720121743.38314 "d:/CV/cv_4.tex" "cv_4.pdf" "cv_4" 1720121745.08194 0
+["pdflatex"] 1720123060.73298 "d:/CV/cv_4.tex" "cv_4.pdf" "cv_4" 1720123062.68328 0
   "C:/Users/HP/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1720041915 107140 c9e330ce8b39a43a2a5dd05f1e87e8c3 ""
   "C:/Users/HP/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1719923933 24263300 b2746860ae459c78f2d73c028dc4ce90 ""
   "C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -74,13 +74,13 @@
   "C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1718356376 14067 1383bd6ee23ab18ae0e796155404deb7 ""
   "C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "CoursesDegree.jpg" 1720121381 168291 e00219401685e57eb82689c775f03e96 ""
-  "GraduationProject.jpg" 1720121378 167471 69b0ec697f3ca849c3523e0c920a5444 ""
-  "cv_4.aux" 1720121744 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "cv_4.out" 1720121744 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv_4.tex" 1720121740 4982 db8e8e05b1a528a840ddc856470655b7 ""
-  "d:/CV/cv_4.tex" 1720121740 4982 db8e8e05b1a528a840ddc856470655b7 ""
-  "resume.cls" 1720121421 4931 7d0890dd8b770ce0426136049ebec6c1 ""
+  "CoursesDegree.jpg" 1720121856 168291 e00219401685e57eb82689c775f03e96 ""
+  "GraduationProject.jpg" 1720121856 167471 69b0ec697f3ca849c3523e0c920a5444 ""
+  "cv_4.aux" 1720123062 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "cv_4.out" 1720123061 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv_4.tex" 1720123057 4763 4f0067832b068d102051c6522c4d7f98 ""
+  "d:/CV/cv_4.tex" 1720123057 4763 4f0067832b068d102051c6522c4d7f98 ""
+  "resume.cls" 1720121856 4931 7d0890dd8b770ce0426136049ebec6c1 ""
   (generated)
   "cv_4.aux"
   "cv_4.log"

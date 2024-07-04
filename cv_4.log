@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.2)  4 JUL 2024 22:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.2)  4 JUL 2024 22:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -329,22 +329,22 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 39--39
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--87
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
 
  []
 
 <GraduationProject.jpg, id=11, 2007.5pt x 2007.5pt>
 File: GraduationProject.jpg Graphic file (type jpg)
 <use GraduationProject.jpg>
-Package pdftex.def Info: GraduationProject.jpg  used on input line 113.
+Package pdftex.def Info: GraduationProject.jpg  used on input line 101.
 (pdftex.def)             Requested size: 50.57333pt x 50.58878pt.
 <CoursesDegree.jpg, id=15, 2007.5pt x 2007.5pt>
 File: CoursesDegree.jpg Graphic file (type jpg)
 <use CoursesDegree.jpg>
-Package pdftex.def Info: CoursesDegree.jpg  used on input line 119.
+Package pdftex.def Info: CoursesDegree.jpg  used on input line 107.
 (pdftex.def)             Requested size: 50.57333pt x 50.58878pt.
 
-Overfull \hbox (4.86665pt too wide) in paragraph at lines 111--122
+Overfull \hbox (4.86665pt too wide) in paragraph at lines 99--110
  [][]  [] 
  []
 
@@ -363,13 +363,13 @@ Package rerunfilecheck Info: File `cv_4.out' has not changed.
 Here is how much of TeX's memory you used:
  11172 strings out of 473904
  180265 string characters out of 5728017
- 1939908 words of memory out of 5000000
+ 1940908 words of memory out of 5000000
  33925 multiletter control sequences out of 15000+600000
  562068 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,8n,80p,613b,654s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv_4.pdf (1 page, 209729 bytes).
+Output written on cv_4.pdf (1 page, 210132 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
