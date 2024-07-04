@@ -1,0 +1,125 @@
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+\usepackage[dvipsnames]{xcolor}
+\usepackage{subcaption}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.1in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Hazem Hossam Helmy} % Your name
+\address{Graduate mathematician of the Faculty of Science - Alexandria University.}
+
+\address{\href{https://github.com/HazemH0ssam}{\color{blue} Github: HazemH0ssam } - \href{https://www.linkedin.com/in/hazem-helmy/}{\color{blue} Linkedin: Hazem-Helmy }}
+\address{(+20)1201689200  \\ HazemH.Helmy@gmail.com \\ Aboukir - Alexandria}
+
+
+
+\renewenvironment{rSection}[1]{
+\sectionskip
+\textcolor{black}{\MakeUppercase{#1}}
+\sectionlineskip
+\hrule
+\begin{list}{}{
+\setlength{\leftmargin}{1.5em}
+}
+\item[]
+}{
+\end{list}
+}
+
+
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+
+{\bf Alexandria University} \hfill {\em September 2019 - 2024} 
+\\ \href{https://drive.google.com/file/d/1F50DDXvgqMtAoCs6Qjr5yMD2jWmPWW3m/view?usp=sharing}{\color{blue}B.Sc. in Mathematics (Honors Degree)} \hfill
+\\ CGPA 3.88 / 4.00 (Excellent) \hfill
+ 
+
+
+%Minor in Linguistics \smallskip \\
+%Member of Eta Kappa Nu \\
+%Member of Upsilon Pi Epsilon \\
+
+
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Experience}
+\begin{rSubsection}{Freelancing}{2017 - Present}{}{}
+\item Working freelance as a graphic designer and as a mathematics tutor in several websites like \href{https://khamsat.com/user/hazem_hosam}{\color{blue}Khamsat}, \href{https://mostaql.com/u/Hazem_Hosam}{\color{blue}Mostaql}, 
+ and \href{https://www.elharefa.com/en/freelancers/p/hazemhossam}{\color{blue}Al7arefa}.\\
+ I taught college students different mathematics courses like Calculus, Linear Algebra, Abstract Algebra (Ring Theory), Fourier Analysis and Transformations, Differential Equations, Integral Equations, Topology, Methods of Applied Math and  other various branches in Pure Mathematics.
+\end{rSubsection}
+\end{rSection}
+
+
+
+\begin{rSection}{Research experience}
+    \begin{rSubsection}{\href{https://drive.google.com/file/d/1vL6V7qEHOOi3-hYtSzS2O25Ldthgse1i/view?usp=sharing}{\color{blue}On Fractional Derivatives with Non-singular Kernels}}{Graduation Project}{}
+    \item An introduction from singular to non-singular fractional derivatives, Drawbacks of using bounded kernels, and Existence and uniqueness Theorem of fractional Differential Equations using bounded kernels
+    \end{rSubsection}
+\end{rSection}
+\begin{rSection}{Achievements} \itemsep -2pt
+{\textbf{Civil Work}, Head of Media Committee in Ammar Team }\hfill {\em  2020} \\
+{\textbf{Training} \href{https://drive.google.com/file/d/1VpFXYPsgSxHXgMD-dYogniCJ7SxajkaJ/view?usp=sharing}{\color{blue}- \textit{Summer training}- Introduction to MATLAB}}\hfill {\em  2022} \\
+\end{rSection}
+
+
+
+
+\begin{rSection}{Skills }
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Programming Languages &  Python, Visual Basic, MATLAB \\
+Softwares \& Tools & HTML, CSS, LaTeX, M.s Office, Adobe Photoshop, Illustrator \\
+\end{tabular}
+\end{rSection}
+\begin{rSection}{Languages }
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Arabic &  Native \\
+English & Intermediate \\
+\end{tabular}
+\end{rSection}
+
+
+
+
+\begin{rSection}{Useful Links}  
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[t]{0.5\textwidth}
+        \centering
+        \includegraphics[height=0.7in]{GraduationProject.jpg}
+        \caption{\href{https://drive.google.com/file/d/1vL6V7qEHOOi3-hYtSzS2O25Ldthgse1i/view?usp=sharing}{\color{blue}Graduation Project}}
+    \end{subfigure}%
+    ~ 
+    \begin{subfigure}[t]{0.5\textwidth}
+        \centering
+        \includegraphics[height=0.7in]{CoursesDegree.jpg}
+        \caption{\href{https://drive.google.com/file/d/1F50DDXvgqMtAoCs6Qjr5yMD2jWmPWW3m/view?usp=drive_link}{\color{blue}Courses Grade}}
+    \end{subfigure}
+\end{figure}
+\end{rSection}
+
+\end{document}
