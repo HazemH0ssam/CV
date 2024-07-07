@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1720375106.34483 "d:/CV/cv_4.tex" "cv_4.pdf" "cv_4" 1720375107.60543 0
+["pdflatex"] 1720375734.95765 "d:/CV/cv_4.tex" "cv_4.pdf" "cv_4" 1720375736.25081 2
   "C:/Users/HP/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1720300109 174494 aecf0872fe5c957a43c01948a1f600f2 ""
   "C:/Users/HP/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1720269372 24263300 1edb0d75003492dde319eb8d3195b408 ""
   "C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -76,10 +76,10 @@
   "C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "CoursesDegree.jpg" 1720121856 168291 e00219401685e57eb82689c775f03e96 ""
   "GraduationProject.jpg" 1720121856 167471 69b0ec697f3ca849c3523e0c920a5444 ""
-  "cv_4.aux" 1720375107 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "cv_4.out" 1720375107 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv_4.tex" 1720375105 4767 5b5d2fb26c95dc2435d45fef5886ad62 ""
-  "d:/CV/cv_4.tex" 1720375105 4767 5b5d2fb26c95dc2435d45fef5886ad62 ""
+  "cv_4.aux" 1720375735 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "cv_4.out" 1720375735 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv_4.tex" 1720375732 5063 98a9191caebabb58fc0d5e334462e1db ""
+  "d:/CV/cv_4.tex" 1720375732 5063 98a9191caebabb58fc0d5e334462e1db ""
   "resume.cls" 1720121856 4931 7d0890dd8b770ce0426136049ebec6c1 ""
   (generated)
   "cv_4.aux"
