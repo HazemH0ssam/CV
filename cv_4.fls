@@ -127,6 +127,12 @@ INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-
 INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT .\cv_4.out
+INPUT .\cv_4.out
+INPUT cv_4.out
+INPUT cv_4.out
+INPUT .\cv_4.out
+INPUT .\cv_4.out
 OUTPUT cv_4.out
 OUTPUT cv_4.pdf
 INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
